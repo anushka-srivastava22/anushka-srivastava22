@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka-srivastava22" alt="anushka-srivastava22" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anushka-srivastava22.github.io/Portfolio-Website/](https://anushka-srivastava22.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://anushka-srivastava22.github.io/my-portfolio/](https://anushka-srivastava22.github.io/Portfolio-Website/)
 
 - 📝 I regularly write articles on [https://srivastavaanushka3.medium.com/](https://srivastavaanushka3.medium.com/)
 
