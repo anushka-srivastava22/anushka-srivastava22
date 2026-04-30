@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 <a href="https://dotnet.microsoft.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 </a> 
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="aspnet" width="40" height="40"/>
+</a>
 <a href="https://cloud.google.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
 </a>
